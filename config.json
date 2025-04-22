@@ -1,0 +1,34 @@
+{
+  "speaker_info": {
+    "name": "John",
+    "office": "XYZ Corp",
+    "contact": {
+      "email": null,
+      "phone_number": null,
+      "address": {
+        "street": null,
+        "city": null,
+        "country": null
+      }
+    }
+  },
+  "content_info": {
+    "date": "20 April 2025",
+    "segment": "Jakarta Traffic Report",
+    "content": "Let's talk about something every Jakartan knows all too well-traffic. Yes, that daily ritual of bumper-to-bumper bonding. Did you know that Jakarta once ranked as one of the most congested cities in the world? According to the TomTom Traffic Index, in 2017, drivers in the capital spent an average of 63% extra travel time stuck in traffic. That's almost like adding another work shift-except it's unpaid and mostly honking!"
+  },
+  "screen": {
+    "width": 540,
+    "height": 960
+  },
+  "phoneme_to_viseme": {
+    "A": "b_talk_2",
+    "B": "b_talk_3",
+    "C": "b_talk_2",
+    "D": "b_talk_3",
+    "E": "b_talk_3",
+    "F": "b_talk_1",
+    "G": "b_talk_3",
+    "X": "b_talk_1"
+  }
+}
